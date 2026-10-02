@@ -1,0 +1,77 @@
+Velora Proprietary License
+Copyright (c) 2026 Velora. All rights reserved.
+
+1. Grant of Rights
+Subject to the terms of this License, Velora grants no general right to use,
+copy, modify, merge, publish, distribute, sublicense, sell, or otherwise
+commercialize the Software, except as expressly authorized in writing by
+Velora.
+
+2. Ownership
+The Software, including its source code, documentation, firmware, hardware
+designs, schemas, configurations, interfaces, algorithms, models, assets,
+and related materials, is proprietary and remains the property of Velora
+and/or its licensors.
+
+3. Restrictions
+Without prior written permission from Velora, you may not:
+- copy or redistribute the Software or substantial portions of it;
+- publish the source code or proprietary implementation details;
+- create or distribute derivative works;
+- sublicense, sell, lease, rent, or commercially exploit the Software;
+- remove copyright, trademark, license, or proprietary notices; or
+- use the Software to provide a competing product or service.
+
+4. Internal Use
+You may use, inspect, build, test, and modify a copy of the Software for
+internal development and evaluation purposes only, provided that the copy
+remains subject to this License and is not distributed outside your
+organization.
+
+5. Third-Party Components
+Third-party libraries, frameworks, services, models, firmware, and other
+components included with or used by the Software remain subject to their
+respective licenses. Nothing in this License grants rights to third-party
+materials beyond the rights provided by their applicable licenses.
+
+6. Trademarks
+"Velora" and associated names, logos, product names, and marks are not
+licensed under this License. Use of Velora trademarks requires separate
+written permission.
+
+7. No Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+
+8. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, VELORA AND ITS
+CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA,
+REVENUE, PROFITS, OR BUSINESS INTERRUPTION, ARISING FROM OR RELATED TO THE
+USE OF OR INABILITY TO USE THE SOFTWARE.
+
+9. Safety-Critical Use
+Velora is intended to support vehicle safety and emergency-response
+workflows. The Software and associated hardware must not be treated as a
+guaranteed substitute for emergency services, professional medical care,
+driver judgment, legally required safety equipment, or officially certified
+safety systems. Production deployment requires appropriate validation,
+certification, regulatory review, operational controls, and external
+integrations where applicable.
+
+10. Termination
+Any rights granted under this License terminate automatically if you violate
+its terms. Upon termination, you must cease use and destroy copies of the
+Software in your possession or control, except where retention is required
+by applicable law.
+
+11. Governing Terms
+This License is governed by applicable law and does not grant any rights
+beyond those expressly stated above.
+
+For commercial licensing, partnership, redistribution, or other permissions,
+contact the authorized Velora project owner.
+
+This license is intended as a project-level proprietary license and should
+be reviewed by qualified legal counsel before commercial distribution.
